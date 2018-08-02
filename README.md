@@ -37,39 +37,39 @@ Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/150810490
 
 ## Next meeting agenda ( please provide topics as a PR )
 
-* [2018-08-01](meetings/2018-08-01-ODPi-TSC-Meeting-Notes)
+* [2018-08-01](meetings/2018-08-01-ODPi-TSC-Meeting-Notes.md)
 
 ## Past meeting notes
 
-* [2018-07-11](meetings/2018-07-11-ODPi-TSC-Meeting-Notes)
-* [2018-06-06](meetings/2018-06-06-ODPi-TSC-Meeting-Notes)
-* [2018-05-02](meetings/2018-05-02-ODPi-TSC-Meeting-Notes)
-* [2018-04-04](meetings/2018-04-04-ODPi-TSC-Meeting-Notes)
-* [2018-02-28](meetings/2018-02-28-ODPi-TSC-Meeting-Notes)
-* [2018-02-01](meetings/2018-02-01-ODPi-TSC-Meeting-Notes)
-* [2018-01-11](meetings/2018-01-11-ODPi-TSC-Meeting-Notes)
+* [2018-07-11](meetings/2018-07-11-ODPi-TSC-Meeting-Notes.md)
+* [2018-06-06](meetings/2018-06-06-ODPi-TSC-Meeting-Notes.md)
+* [2018-05-02](meetings/2018-05-02-ODPi-TSC-Meeting-Notes.md)
+* [2018-04-04](meetings/2018-04-04-ODPi-TSC-Meeting-Notes.md)
+* [2018-02-28](meetings/2018-02-28-ODPi-TSC-Meeting-Notes.md)
+* [2018-02-01](meetings/2018-02-01-ODPi-TSC-Meeting-Notes.md)
+* [2018-01-11](meetings/2018-01-11-ODPi-TSC-Meeting-Notes.md)
 
 <details><summary>2017 Archives</summary><p>
 
-* [2017-12-14](meetings/2017-12-14-ODPi-TSC-Meeting-Notes)
-* [2017-11-02](meetings/2017-11-02-ODPi-TSC-Meeting-Notes)
-* [2017-10-05](meetings/2017-10-05-ODPi-TSC-Meeting-Notes)
-* [2017-09-07](meetings/2017-09-07-ODPi-TSC-Meeting-Notes)
-* [2017-08-03](meetings/2017-08-03-ODPi-TSC-Meeting-Notes)
-* [2017-07-13](meetings/2017-07-13-ODPi-TSC-Meeting-Notes)
-* [2017-06-01](meetings/2017-06-01-ODPi-TSC-Meeting-Notes)
-* [2017-05-04](meetings/2017-05-04-ODPi-TSC-Meeting-Notes)
-* [2017-04-06](meetings/2017-04-06-ODPi-TSC-Meeting-Notes)
-* [2017-03-02](meetings/2017-03-02-ODPi-TSC-Meeting-Notes)
-* [2017-01-30](meetings/2017-01-30-ODPi-TSC-Meeting-Notes)
-* [2017-01-12](meetings/2017-01-12-ODPi-TSC-Meeting-Notes)
+* [2017-12-14](meetings/2017-12-14-ODPi-TSC-Meeting-Notes.md)
+* [2017-11-02](meetings/2017-11-02-ODPi-TSC-Meeting-Notes.md)
+* [2017-10-05](meetings/2017-10-05-ODPi-TSC-Meeting-Notes.md)
+* [2017-09-07](meetings/2017-09-07-ODPi-TSC-Meeting-Notes.md)
+* [2017-08-03](meetings/2017-08-03-ODPi-TSC-Meeting-Notes.md)
+* [2017-07-13](meetings/2017-07-13-ODPi-TSC-Meeting-Notes.md)
+* [2017-06-01](meetings/2017-06-01-ODPi-TSC-Meeting-Notes.md)
+* [2017-05-04](meetings/2017-05-04-ODPi-TSC-Meeting-Notes.md)
+* [2017-04-06](meetings/2017-04-06-ODPi-TSC-Meeting-Notes.md)
+* [2017-03-02](meetings/2017-03-02-ODPi-TSC-Meeting-Notes.md)
+* [2017-01-30](meetings/2017-01-30-ODPi-TSC-Meeting-Notes.md)
+* [2017-01-12](meetings/2017-01-12-ODPi-TSC-Meeting-Notes.md)
 
 </p></details>
 <details><summary>2016 Archives</summary><p>
 
-* [2016-11-03](meetings/2016-11-03-ODPi-TSC-Meeting-Notes)
+* [2016-11-03](meetings/2016-11-03-ODPi-TSC-Meeting-Notes.md)
 * [2016-10-06](meetings/ODPi%20TSC%20Meeting%20Notes%2020161006.docx)
-* [2016-09-01](meetings/2016-09-01-ODPi-TSC-Meeting-Notes)
+* [2016-09-01](meetings/2016-09-01-ODPi-TSC-Meeting-Notes.md)
 * [2016-08-04](meetings/ODPi%20TSC%20Meeting%20Notes%2020160804.docx)
 * [2016-07-07](meetings/ODPi%20TSC%20Meeting%20Notes%2020160707.docx)
 * [2016-06-02](meetings/ODPi%20TSC%20Meeting%20Notes%2020160602.docx)
