@@ -4,11 +4,11 @@ As defined in the [TSC Charter](https://www.odpi.org/wp-content/uploads/sites/9/
 
 ## What does the TSC do?
 
-
+The role of the ODPi TSC is to oversee all open source projects hosted by ODPi. The TSC isn't here to legislate and dictate how a project runs, but does serve to establish and maintain project lifecycles, establish criteria for a project to be hosted by ODPi, ensure projects have the resources and tools to be successful, and resolve conflicts or issues that any ODPi project may call them to do.
 
 ## Composition
 
-ODPi TSC voting members are composed of 7 members elected by the ODPi community for a period of 1 year starting from January 1 of each calendar year.
+ODPi TSC voting members are composed of 7 members elected by the ODPi community for a period of 1 year starting from January 1 of each calendar year. ODPi community members consist of individuals either participating in an ODPi project or an employee of a corporate member of ODPi.
 
 ## Current voting members
 
@@ -92,7 +92,9 @@ Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/150810490
 
 # ODPi Projects
 
-All ODPi project are overseen by the TSC according to the [governance processes](governance) as defined by the TSC and approved by the Board of Directors
+All ODPi project are overseen by the TSC according to the [governance processes](governance) as defined by the TSC and approved by the Board of Directors.
+
+*DRAFT - to be approved by the ODPi TSC*
 
 ## Incubating projects
 
@@ -101,6 +103,7 @@ None
 ## Active Projects
 
 * [ODPi Data Governance](https://github.com/odpi/data-governance)
+  * Including [ODPi Egeria](https://github.com/odpi/egeria)
 * [ODPi Runtime](https://github.com/odpi/specs/wiki/meetings/RuntimePMC)
 * [ODPi BI and AI](https://github.com/odpi/sig-reports/wiki/BI-and-AI-SIG)
 

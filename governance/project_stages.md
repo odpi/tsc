@@ -4,11 +4,11 @@
 
 Every ODPi project has an associated maturity level. Proposed ODPi projects should state their preferred maturity level. When a TSC vote is held on a proposed project entering ODPi, votes may either be for the project to enter as an Incubation or Active Stage project, or not to enter at this time. A two-thirds supermajority is required for a project to be accepted. If there is not a supermajority of votes to enter as a Active Stage project, then any Active Stage votes are recounted as votes to enter as an Incubation Stage project. If there is not a supermajority of votes to enter as an Incubation Stage project, the project is rejected. This voting process is called fallback voting.
 
-Projects of all maturities have access to all resources listed at [https://openmainframeproject.org/projects](https://openmainframeproject.org/projects) but if there is contention, more mature projects will generally have priority.
+Projects of all maturities have access to resources provided by ODPi such as code hosting, build/CI infrastructure, and communication tools, but if there is contention, more mature projects will generally have priority.
 
 ## Incubation Stage
 
-To be accepted to the Incubation Stage, a project must cODPilete the [proposal process](proposal_process.md).
+To be accepted to the Incubation Stage, a project must complete the [proposal process](proposal_process.md).
 
 Every 12 months, each Incubation Stage project will come to a vote with the TSC. A supermajority vote is required to renew a project at Incubation Stage for another 12 months or move it to active stage. If there is not a supermajority for any of these options, the project is not renewed.
 
@@ -16,11 +16,11 @@ In the case of an Incubation Stage project that is not renewed with ODPi, the tr
 
 ## Active Stage
 
-To graduate from Incubation Stage, or for a new project to join as an Active Stage project, a project must cODPilete the [proposal process](proposal_process.md) plus:
+To graduate from Incubation Stage, or for a new project to join as an Active Stage project, a project must complete the [proposal process](proposal_process.md) plus:
 
 * Have committers from at least two organizations.
 * Have achieved and maintained a Core Infrastructure Initiative https://bestpractices.coreinfrastructure.org/[Best Practices Badge].
-* Explicitly define a project governance and committer process. This preferably is laid out in a GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus committers. A recommended governance process is defined at [example_governance.md](example_governance.md)
+* Explicitly define a project governance process. This preferably is laid out in a GOVERNANCE.md file and references an OWNERS.md or MAINTAINERS.md file showing the current and emeritus committers or maintainers. A recommended governance process is defined at [example_governance.md](example_governance.md)
 * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
 * Receive a supermajority vote from the TSC to move to accepted stage.
 

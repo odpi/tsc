@@ -6,7 +6,7 @@ Based on the [CNCF Project Proposal Process v1.1](https://github.com/CNCF/toc/bl
 
 ## Introduction
 
-This governance policy sets forth the proposal process for projects to be accepted into the Open Mainframe Project (“ODPi”). The process is the same for both existing projects which seek to move into the ODPi, and new projects to be formed within the ODPi.
+This governance policy sets forth the proposal process for projects to be accepted into the ODPi. The process is the same for both existing projects which seek to move into the ODPi, and new projects to be formed within the ODPi.
 
 ## Project Proposal Requirements
 
@@ -17,13 +17,13 @@ Projects must be proposed via pull request to [https://github.com/odpi/tsc/tree/
 * Statement on alignment with ODPi charter mission
 * Sponsor from TSC (sponsor helps mentor projects)
 * Preferred maturity level (see [ODPi Graduation Criteria](project_stages.md))
-* License and contribution guidelines (charter dictates [Apache 2](https://spdx.org/licenses/Apache-2.0.html) by default except for Linux kernel code which must be [GPLv2](https://spdx.org/licenses/GPL-2.0), having each committer agree to the [DCO](https://developercertificate.org/)
+* License and contribution guidelines (charter dictates [Apache 2](https://spdx.org/licenses/Apache-2.0.html) by default, having each committer agree to the [DCO](https://developercertificate.org/)
 * Source control (GitHub by default)
 * External dependencies (including licenses)
 * Initial committers (how long working on project)
 * Infrastructure requests (CI / ODPi Cluster)
 * Communication channels (slack, irc, mailing lists)
-* Issue tracker (GitHub by default)
+* Issue tracker
 * Website
 * Release methodology and mechanics
 * Social media accounts
