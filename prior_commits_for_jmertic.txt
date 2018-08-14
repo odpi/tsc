@@ -1,0 +1,7 @@
+The following commits were made pursuant to the Developer Certificate of Origin, even though a Signed-off-by: was not included in the commit message.
+
+0b9e8bc Notes from 20180808 meeting.
+36cfd66 Edits based on TSC feedback.
+75949db Add example governance.
+2f9d6fa One more fixed link
+52039d6 Fix links
