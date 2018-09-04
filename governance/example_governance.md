@@ -1,4 +1,4 @@
-*DRAFT - to be approved by the ODPi TSC*
+*Approved by ODPi TSC on 2018-09-04. Pending Board of Directors approval*
 
 *NOTE: This document is intended to provide an example governance structure for any ODPi project to consider as a starting point. All projects hosted by ODPi are not bound by these governance polices, but in absence of any prior governance structure should consider this as a recommended structure*
 

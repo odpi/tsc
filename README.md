@@ -96,7 +96,7 @@ Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/150810490
 
 All ODPi project are overseen by the TSC according to the [governance processes](governance) as defined by the TSC and approved by the Board of Directors.
 
-*DRAFT - to be approved by the ODPi TSC*
+*Approved by ODPi TSC on 2018-09-04. Pending Board of Directors approval*
 
 ## Incubating projects
 
