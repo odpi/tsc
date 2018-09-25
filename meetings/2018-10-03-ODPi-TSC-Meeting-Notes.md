@@ -23,6 +23,7 @@ Quorum achieved.
 
 * Active Project updates
   * ODPi BI & AI
+    * Approve publication
   * ODPi Runtime
   * ODPi Data Governance and ODPi Egeria
 * BigTop grant update
