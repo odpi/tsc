@@ -25,6 +25,8 @@ Quorum achieved.
   * ODPi BI & AI
   * ODPi Runtime
   * ODPi Data Governance and ODPi Egeria
+* BigTop grant update
+* Discuss ODPi JIRA decommisioning 
 
 # AIs
 
