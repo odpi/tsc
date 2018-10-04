@@ -111,4 +111,4 @@ None
 
 ## Emeritus Projects
 
-* [ODPi Operations](meetings/OperationsPMC)
+* [ODPi Operations](https://github.com/odpi/specs/wiki/meetings/OperationsPMC)
