@@ -37,10 +37,11 @@ Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/150810490
 
 ## Next meeting agenda ( please provide topics as a PR )
 
-* [2018-10-03](meetings/2018-10-03-ODPi-TSC-Meeting-Notes.md)
+* [2018-11-07](meetings/2018-11-07-ODPi-TSC-Meeting-Notes.md)
 
 ## Past meeting notes
 
+* [2018-10-03](meetings/2018-10-03-ODPi-TSC-Meeting-Notes.md)
 * [2018-09-04](meetings/2018-09-04-ODPi-TSC-Meeting-Notes.md)
 * [2018-08-08](meetings/2018-08-08-ODPi-TSC-Meeting-Notes.md)
 * [2018-07-11](meetings/2018-07-11-ODPi-TSC-Meeting-Notes.md)
