@@ -22,10 +22,12 @@ Quorum NOT achieved.
 
 * Active Project updates
   * ODPi BI & AI
+    * Progress on publication
   * ODPi Runtime
   * ODPi Data Governance and ODPi Egeria
 * BigTop grant update
 * ODPi JIRA decommisioning update
+* ODPi TSC charter review
 
 # AIs
 

@@ -22,7 +22,7 @@ ODPi TSC voting members are composed of 7 members elected by the ODPi community 
 
 ## Meetings
 
-The TSC meets on the first Wednesday of each month at 6am US Pacific Time/9am US Eastern Time. The next meeting is scheduled for **October 3, 2018 at 9:00am ET**
+The TSC meets on the first Wednesday of each month at 6am US Pacific Time/9am US Eastern Time. The next meeting is scheduled for **November 8, 2018 at 10:00am ET**
 
 You can join the call using the conference details below.
 
