@@ -24,6 +24,7 @@ Quorum NOT Achieved.
   * ODPi Runtime
   * ODPi Data Governance and ODPi Egeria
 * BigTop grant update
+* Future project idea brainstorm
 
 # AIs
 
