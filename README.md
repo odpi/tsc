@@ -1,14 +1,19 @@
 # Technical Steering Committee
 
-As defined in the [TSC Charter](https://www.odpi.org/wp-content/uploads/sites/9/2017/12/ODPi-TSC-Charter.pdf), the Technical Steering Committee (TSC) oversees all technical work done in the ODPi.
+As defined in the [TSC Charter](https://www.odpi.org/odpi-tsc-charter-2), the Technical Steering Committee (TSC) oversees all technical projects hosted in the ODPi.
 
 ## What does the TSC do?
 
-The role of the ODPi TSC is to oversee all open source projects hosted by ODPi. The TSC isn't here to legislate and dictate how a project runs, but does serve to establish and maintain project lifecycles, establish criteria for a project to be hosted by ODPi, ensure projects have the resources and tools to be successful, and resolve conflicts or issues that any ODPi project may call them to do.
+The TSC isn't here to legislate and dictate how a project runs, but does serve to establish and maintain project lifecycles, establish criteria for a project to be hosted by ODPi, ensure projects have the resources and tools to be successful, and resolve conflicts or issues that any ODPi project may call them to do.
 
 ## Composition
 
-ODPi TSC voting members are composed of 7 members elected by the ODPi community for a period of 1 year starting from January 1 of each calendar year. ODPi community members consist of individuals either participating in an ODPi project or an employee of a corporate member of ODPi.
+The composition of the TSC as follows:
+
+- Project Lead for each of the current [ODPi Active Projects](#active-projects).
+- At Large ODPi community members, with the set number equal to the number of [ODPi Active Projects](#active-projects) plus 1
+
+ODPi TSC At Large ODPi community members serve for a period of 1 year starting from January 1 of each calendar year. ODPi community members consist of individuals either participating in an ODPi project.
 
 ## Current voting members
 
@@ -18,11 +23,11 @@ ODPi TSC voting members are composed of 7 members elected by the ODPi community 
 * Cupid Chan
 * Mandy Chessell
 * Raj D Desai
-* Srikanth Venkat
+* Maryna Strelchuk
 
 ## Meetings
 
-The TSC meets on the first Wednesday of each month at 6am US Pacific Time/9am US Eastern Time. The next meeting is scheduled for **December 5, 2018 at 9:00am ET**
+The TSC meets on the first Wednesday of each month at 6am US Pacific Time/9am US Eastern Time. The next meeting is scheduled for **January 9, 2018 at 9:00am ET**
 
 You can join the call using the conference details below.
 
@@ -37,10 +42,13 @@ Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/150810490
 
 ## Next meeting agenda ( please provide topics as a PR )
 
-* [2018-12-05](meetings/2018-12-05-ODPi-TSC-Meeting-Notes.md)
+* [2019-01-09](meetings/2019-01-09-ODPi-TSC-Meeting-Notes.md)
 
 ## Past meeting notes
 
+<details><summary>2018 Archives</summary><p>
+
+* [2018-12-05](meetings/2018-12-05-ODPi-TSC-Meeting-Notes.md)
 * [2018-11-08](meetings/2018-11-08-ODPi-TSC-Meeting-Notes.md)
 * [2018-10-03](meetings/2018-10-03-ODPi-TSC-Meeting-Notes.md)
 * [2018-09-04](meetings/2018-09-04-ODPi-TSC-Meeting-Notes.md)
@@ -53,6 +61,7 @@ Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/150810490
 * [2018-02-01](meetings/2018-02-01-ODPi-TSC-Meeting-Notes.md)
 * [2018-01-11](meetings/2018-01-11-ODPi-TSC-Meeting-Notes.md)
 
+</p></details>
 <details><summary>2017 Archives</summary><p>
 
 * [2017-12-14](meetings/2017-12-14-ODPi-TSC-Meeting-Notes.md)
@@ -98,7 +107,7 @@ Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/150810490
 
 All ODPi project are overseen by the TSC according to the [governance processes](governance) as defined by the TSC and approved by the Board of Directors.
 
-*Approved by ODPi TSC on 2018-09-04. Pending Board of Directors approval*
+*Approved by ODPi TSC on 2018-09-04. Approved by ODPi Board of Directors on 2018-11-16*
 
 ## Incubating projects
 
