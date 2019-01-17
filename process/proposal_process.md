@@ -1,4 +1,4 @@
-*Approved by ODPi TSC on 2018-09-04. Pending Board of Directors approval*
+*Approved by ODPi TSC on 2018-09-04*
 
 # ODPi Top Level Project Proposal Process
 
