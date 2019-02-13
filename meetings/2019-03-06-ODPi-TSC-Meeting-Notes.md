@@ -26,7 +26,6 @@ Quorum NOT achieved.
 * Future projects updates (AIs from last meeting)
   * Ganesh to prepare project proposal for benchmarking for big data.
   * JanusGraph - Susan
-  * Acumos collaboration - Arun
   * Ganesh to start discussion over email on HPC Big Data related project
   * Superset - Alan
   * Palisade - Mandy
