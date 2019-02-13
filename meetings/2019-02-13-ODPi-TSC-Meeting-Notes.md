@@ -33,6 +33,8 @@ Quorum achieved.
   * Palisade - Mandy
 
 # AIs
+* John to reach out to CMS.
+* Susan to set up call with John and JanusGraph.
 
 # Notes
 
@@ -58,9 +60,9 @@ Alan reported that Evans is making progress based on the milestones he has publi
 Cupid has put comments in the document.  Arun and Mandy to take a look.
 
 ### Future Projects
-A meeting was held in December with Acumos and Susan, Arun, and John.  The conclusion was that Acumos did not feel it was time yet to engage with ODPi.  However, with the latest focus of the BI & AI project Cupid feels it makes sense to connect with the project again to see if they would be interested in participating.
+A meeting was held in December with Acumos and Susan, Arun, John and Cupid.  The conclusion was that ODPi did not feel it was time yet to engage with Acumos.  However, with the latest focus of the BI & AI project Cupid feels it makes sense to reconnect with the project again to see if they can provide more information for the existing API and would be interested in participating.
 
-Cupid is reaching out to Centers for Medicare and Medicaid Services to see if they would like to be involved in ODPi.  Given the extensive use of data in medical care it may make sense for them to participate in Egeria and other projects.
+Cupid and John had a discussion about reaching out to Centers for Medicare and Medicaid Services to see if they would like to be involved in ODPi. Given the extensive use of data in medical care it may make sense for them to participate in Egeria and other projects. John will take the action item in the week fo Feb 11 to reach out to them.
 
 Arun had a discussion with a member of the German government over their development of policies for data security.  He will be continuing that discussion to see if it makes sense for them and other government's data teams to be involved in ODPi.
 
