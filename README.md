@@ -125,9 +125,9 @@ None
 
 * [ODPi Data Governance](https://github.com/odpi/data-governance)
   * Including [ODPi Egeria](https://github.com/odpi/egeria)
-* [ODPi Runtime](https://github.com/odpi/specs/wiki/meetings/RuntimePMC)
 * [ODPi BI and AI](https://github.com/odpi/sig-reports/wiki/BI-and-AI-SIG)
 
 ## Emeritus Projects
 
 * [ODPi Operations](https://github.com/odpi/specs/wiki/meetings/OperationsPMC)
+* [ODPi Runtime](https://github.com/odpi/specs/wiki/meetings/RuntimePMC)
