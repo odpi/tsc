@@ -21,6 +21,7 @@ Quorum NOT achieved.
   * ODPi BI & AI
   * ODPi Data Governance and ODPi Egeria
 * BigTop grant update
+* TSC Chairperson
 * Future projects updates (AIs from last meeting)
   * Ganesh to prepare project proposal for benchmarking for big data.
   * JanusGraph - Report from John on March 27 meeting
