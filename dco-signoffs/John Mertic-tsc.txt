@@ -1,0 +1,7 @@
+I, John Mertic hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: jmertic@linuxfoundation.org
+
+0b9e8bcb0db47f591725561075a901a012920e35 Notes from 20180808 meeting.
+36cfd669a8fd96602a6d24a0a4be70cec1ddb81a Edits based on TSC feedback.
+75949db2c16723fd3dd6c099ef4ca14ecccc3123 Add example governance.
+2f9d6fa5c711a0f78fd0d0383cb28979fdfbd242 One more fixed link
+52039d69f60d9ed6d26defaf2e9f84e30be7c22d Fix links
