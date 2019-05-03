@@ -15,7 +15,7 @@
 * John Mertic
 * Susan Malakia
 
-Quorum NOT achieved.
+Quorum achieved.
 
 # Agenda:
 
