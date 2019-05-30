@@ -1,0 +1,6 @@
+I, Alan Gates hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: gates@hortonworks.com
+
+0872b5f839707c8a72510c0e7782fd38fc666d38 Added meetings notes for March 2019 meeting and agenda for April meeting.
+c8b0ff05b8b17ae2f843fe7df69b9ace6799ecfb Added agenda item to March meeting to move runtime to emeritus.
+d5329e87e41f02be5cebebc45ab82e044873ca16 Updates to February notes based on Cupid's feedback.
+60fded16ef1efccd81b711068968a4b43fbb4bb6 Added notes from February meeting.
