@@ -2,11 +2,11 @@
 
 ## Attending
 * Alan Gates
-* Arun Nair
 * Cupid Chan
 * Maryna Strelchuk
-* Ganesh Raju
 * Mandy Chessell
+* Ganesh Raju
+* Arun Nair
 
 ## Regrets
 
@@ -16,7 +16,6 @@ Quorum NOT achieved.
 
 # Agenda:
 
-* Chairperson election results
 * Active Project updates
   * ODPi BI & AI
   * ODPi Data Governance and ODPi Egeria
@@ -26,6 +25,7 @@ Quorum NOT achieved.
   * Palisade - Mandy
   * Benchmarking for big data - Ganesh
   * HPC Big Data related project - Ganesh
+  * CDLA - Susan
 
 # AIs
 
