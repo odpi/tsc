@@ -26,6 +26,7 @@ Quorum NOT achieved.
   * Benchmarking for big data - Ganesh
   * HPC Big Data related project - Ganesh
   * CDLA - Susan
+  * Data Science curriculum - Ana Echeverri
 
 # AIs
 
