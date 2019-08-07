@@ -32,12 +32,12 @@ Below are projects supported by the TSC, listed by [project stage](process/proje
 
 ## Incubation
 
-None
+* Data Science Curriculum
 
 ## Active
 
-* [ODPi Data Governance](https://github.com/odpi/data-governance)
-  * Including [ODPi Egeria](https://github.com/odpi/egeria)
+* [ODPi Egeria](https://github.com/odpi/egeria)
+  * Including [ODPi Egeria's Guidance on Governance](https://github.com/odpi/data-governance)
 * [ODPi BI and AI](https://github.com/odpi/sig-reports/wiki/BI-and-AI-SIG)
 
 ## Emeritus
@@ -51,7 +51,7 @@ The processes and policies for the TSC to manage incoming projects and project s
 
 The TSC meets on the first Wednesday of each month at 6am US Pacific Time/9am US Eastern Time. 
 
-You can review [past meeting notes](meetings/) and the [calendar of meetings](https://lists.odpi.org/calendar).
+You can review [past meeting notes](meetings) and the [calendar of meetings](https://lists.odpi.org/calendar).
 
 For the next TSC meeting, you can propose agenda items either [via email to the TSC](mailto:odpi-tsc@lists.odpi.org), or as a pull request against [those meeting notes](meetings/).
 
