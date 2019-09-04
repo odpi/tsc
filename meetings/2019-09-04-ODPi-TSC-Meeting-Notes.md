@@ -6,7 +6,6 @@
 * Maryna Strelchuk
 * Mandy Chessell
 * Arun Nair
-* Ganesh Ragu
 * John Mertic
 
 ## Regrets
@@ -15,15 +14,20 @@ None
 
 ## Non-voting observers
 
+* David Radley
 * Susan Malaika
-* Suresh Channamallu
+* Mohiuddin Khan Inamdar
+
 
 # Agenda:
 
 * Active Project updates
   
   * ODPi BI & AI - Cupid
-       
+       * Consolidated all of the input into one document
+       * Microsoft has agreed to participate - should get that input this week
+       * In the next 2 weeks - will ha ve a follow up interview with all of the vendors.
+       * New Blog entry: https://www.odpi.org/blog/2019/08/01/how-to-teach-ai
   * ODPi Egeria - Mandy
      * OSS NA - San Diego
          * Egeria team offered half-day workshop with JanusGraph team - 40+ people registered by only presenters turned up.
@@ -64,8 +68,8 @@ None
   * Palisade
     * 2 day hackathon next week - plan to build demo of Egeria and Palisade interacting - also build content for
     webinar in November.
-  * Benchmarking for big data - Ganesh
-  * HPC Big Data related project - Ganesh
+  * Benchmarking for big data - no update
+  * HPC Big Data related project - no update
   * Gaian - Mandy
     * Mandy and Dan working on proposal (no change)
 
@@ -75,8 +79,6 @@ None
      
 # AIs
 
-* John to help us connect to the relevant OpenJS project - done
-* Susan to follow up with JanusGraph
 * Mandy to introduce John to the Palisade team to talk about
 open source project development - will do that next week.
 
