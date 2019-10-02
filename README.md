@@ -32,7 +32,7 @@ Below are projects supported by the TSC, listed by [project stage](process/proje
 
 ## Incubation
 
-* Data Science Curriculum
+* [ODPi OpenDS4All](https://github.com/odpi/OpenDS4All)
 
 ## Active
 
