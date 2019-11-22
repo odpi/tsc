@@ -1,19 +1,10 @@
 # Roll call:
 
 ## Attending
-* Mandy Chessell
-* Alan Gates
-* Cupid Chan
-* Mandy Chessell
-* Arun Nair
-* John Mertic
-* Maryna Strelchuk
 
 ## Regrets
 
-
 ## Non-voting observers
-
 
 # Agenda:
 
@@ -21,24 +12,29 @@
   
   * ODPi BI & AI - Cupid
   * ODPi Egeria - Mandy
-     * Shipped 1.1 - release 1.2 branching in 2 weeks
-     * Release plan part of creating a regular cadence of news about Egeria
-     * Had a major focus on code hygiene - particularly on upgrading dependencies
- 
+
 * Incubator Project update
   * OpenDS4All - Mandy/John/Andre
      
 * Future projects updates
   * Palisade
-    * Joint webinar in early December
-    * Planning meeting 15th November
-  * Benchmarking for big data - no update
-  * HPC Big Data related project - no update
   * Gaian - Mandy
     * Discussed process for re-licensing the code
     * Currently based on outdated version of Apache Derby - looking at a Postgres Plugin alternative
 
-* Discussion on landscape for ODPi
+* Review of guidelines for working with non-ODPi members - Cupid
+
+* Procedure of TSC Elections (reminder)
+
+   * November 22 - Call for Nominations
+   * November 29 - Nominations close, 11:59pm ET
+   * December 2 - Voting period opens, all current ODPi Project maintainers votes, vote by electronic mail or CIVS as appropriate
+   * December 9 - Voting period ends, 11:59pm ET
+   * December 11 - Election results announced
+   * January 1 - New TSC members term begins
+   * January 8 - First meeting of the newly elected TSC; chairperson elected.
+
+* Continued discussion on landscape for ODPi
   Straw man:
   
   ![ODPi Landscape](odpi-landscape%20-%20draft%20-%205th%20November%202019.png)
@@ -50,9 +46,7 @@
      * Other interesting technologies and projects - demo and Q&A.
      
 # AIs
-* Remove benchmarking and HPC big data projects.
-* Update ODPi landscape to include "analytics" in the titles.
-* Consider the OpenSDS a a possible member.
+
 
 # Notes
 
