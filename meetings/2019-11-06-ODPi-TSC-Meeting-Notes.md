@@ -1,7 +1,13 @@
 # Roll call:
 
 ## Attending
-
+Mandy Chessell
+* Alan Gates
+* Cupid Chan
+* Mandy Chessell
+* Arun Nair
+* John Mertic
+* Maryna Strelchuk
 
 ## Regrets
 
@@ -44,7 +50,9 @@
      * Other interesting technologies and projects - demo and Q&A.
      
 # AIs
-
+* Remove benchmarking and HPC big data projects.
+* Update ODPi landscape to include "analytics" in the titles.
+* Consider the OpenSDS a a possible member.
 
 # Notes
 
