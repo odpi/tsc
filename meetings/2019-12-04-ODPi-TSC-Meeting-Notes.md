@@ -12,15 +12,16 @@
   
   * ODPi BI & AI - Cupid
   * ODPi Egeria - Mandy
+     * Release 1.2 complete
 
 * Incubator Project update
   * OpenDS4All - Mandy/John/Andre
      
 * Future projects updates
   * Palisade
+    * Webinar tomorrow - [https://www.odpi.org/blog/2019/11/20/webinar-new-approaches-to-managing-access-to-sensitive-data](https://www.odpi.org/blog/2019/11/20/webinar-new-approaches-to-managing-access-to-sensitive-data)
   * Gaian - Mandy
-    * Discussed process for re-licensing the code
-    * Currently based on outdated version of Apache Derby - looking at a Postgres Plugin alternative
+    * No change
 
 * Review of guidelines for working with non-ODPi members - Cupid
 
@@ -31,6 +32,7 @@
    * December 2 - Voting period opens, all current ODPi Project maintainers votes, vote by electronic mail or CIVS as appropriate
    * December 9 - Voting period ends, 11:59pm ET
    * December 11 - Election results announced
+      * Congratulations Maryna and Arun
    * January 1 - New TSC members term begins
    * January 8 - First meeting of the newly elected TSC; chairperson elected.
 
