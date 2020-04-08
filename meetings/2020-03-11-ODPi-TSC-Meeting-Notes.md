@@ -2,6 +2,10 @@
 
 ## Attending
 
+* Mandy Chessell
+* John Mertic
+* Cupid Chan
+* Arun Nair
 
 ## Regrets
 
@@ -13,7 +17,8 @@
 
 * Project updates
   
-  * OpenDS4All - Andre
+  * OpenDS4All
+    
   * ODPi BI & AI - Cupid
   * ODPi Egeria - Mandy
      * Release 1.5 in final stages of CI/CD pipeline. JFrog Artifactory problems again.
@@ -24,7 +29,7 @@
          * San Jose Strata Conference postponed to New York September 2020. Accepted speaking slot for Egeria for the NY event in September.
          * LF offering free facilities for 1/2 day meeting at OSS in Austin and Dublin (assuming the events go ahead).  Also looking to provide booth.
      * Website
-        * New [roadmap and stack picture](https://egeria.odpi.org/open-metadata-publication/website/roadmap/) for Egeria.
+        * New [road map and stack picture](https://egeria.odpi.org/open-metadata-publication/website/roadmap/) for Egeria.
         * Features marked with status
         * Guides in progress
      * Audit Log Framework enabling vendors to generate translated messages
