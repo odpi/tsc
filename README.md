@@ -4,29 +4,32 @@ As defined in the [TSC Charter](https://www.odpi.org/odpi-tsc-charter-2), the Te
 
 ## What does the TSC do?
 
-The TSC isn't here to legislate and dictate how a project runs, but does serve to establish and maintain project lifecycles, establish criteria for a project to be hosted by ODPi, ensure projects have the resources and tools to be successful, and resolve conflicts or issues that any ODPi project may call them to do.
+The TSC isn't here to legislate and dictate how a project runs, but does serve
+to establish and maintain project life-cycles, establish criteria for a project to be
+hosted by ODPi, ensure projects have the resources and tools to be successful, and resolve
+conflicts or issues that any ODPi project may call them to do.
 
 ## Composition
 
 The composition of the TSC as follows:
 
-- Project Lead for each of the current [ODPi Active Projects](#active-projects).
-- At Large ODPi community members, with the set number equal to the number of [ODPi Active Projects](#active-projects) plus 1
+- Project Lead for each of the current [ODPi Active Projects](#active).
+- At Large ODPi community members, with the set number equal to the number of [ODPi Active Projects](#active) plus 1
 
-ODPi TSC At Large ODPi community members serve for a period of 1 year starting from January 1 of each calendar year. ODPi community members consist of individuals either participating in an ODPi project.
+ODPi TSC At Large ODPi community members serve for a period of 1 year starting from
+January 1st of each calendar year. ODPi community members consist of individuals
+either participating in an ODPi project.
 
 ## Current voting members
 
 * Mandy Chessell - ODPi Egeria lead (Chairperson)
 * Cupid Chan - ODPi BI and AI lead
-* Ganesh Raju - At Large
 * Arun Nair - At Large
-* Alan Gates - At Large
 * Maryna Strelchuk - At Large
 
 # TSC Projects
 
-ODPi TSC is a home for open source projects within the big data ecosystem. The TSC ensures that big data projects have the support they need to be successful, with flexability on governance and licensing to ensure the community can operate and grow successfully.
+ODPi TSC is a home for open source projects within the big data ecosystem. The TSC ensures that big data projects have the support they need to be successful, with flexibility on governance and licensing to ensure the community can operate and grow successfully.
 
 Below are projects supported by the TSC, listed by [project stage](process/project_stages.md).
 
@@ -49,11 +52,11 @@ The processes and policies for the TSC to manage incoming projects and project s
 
 # Meetings
 
-The TSC meets on the first Wednesday of each month at 6am US Pacific Time/9am US Eastern Time. 
+The TSC meets on the second Wednesday of each month at 6am US Pacific Time/9am US Eastern Time. 
 
 You can review [past meeting notes](meetings) and the [calendar of meetings](https://lists.odpi.org/calendar).
 
-For the next TSC meeting, you can propose agenda items either [via email to the TSC](mailto:odpi-tsc@lists.odpi.org), or as a pull request against [those meeting notes](meetings/).
+For the next TSC meeting, you can propose agenda items either [via email to the TSC](mailto:odpi-tsc@lists.odpi.org), or as a pull request against [those meeting notes](meetings).
 
 ## Conference call details
 

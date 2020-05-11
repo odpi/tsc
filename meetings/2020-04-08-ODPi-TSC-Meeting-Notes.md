@@ -6,6 +6,7 @@
 * John Mertic
 * Cupid Chan
 * Arun Nair
+* Maryna Strelchuk
 
 ## Regrets
 
@@ -18,7 +19,13 @@
 * Project updates
   
   * OpenDS4All - Andre
+     * Working to increase publicity and community growth
   * ODPi BI & AI - Cupid
+     * SAS, DataBricks, Snowflake, Microstrategy, Microsoft,...
+     * Divide into 2 parts
+       * Create and publish specification - get feedback
+       * Develop implementation
+     * Fewer responses than for the whitepaper because of its more practical nature.
   * ODPi Egeria - Mandy
      * Release 1.6 in final stages of CI/CD pipeline. No current problems.
      * Events
@@ -32,6 +39,7 @@
         * No major changes
      * New features delivered
         * Repository Explorer UI delivered in `EgeriaUIApplication`.
+  * Zoom guidelines
   
 * AOB 
   * What else should we cover?
