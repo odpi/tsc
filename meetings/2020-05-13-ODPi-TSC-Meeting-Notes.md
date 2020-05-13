@@ -5,7 +5,6 @@
 * Mandy Chessell
 * John Mertic
 * Cupid Chan
-* Arun Nair
 * Maryna Strelchuk
 * Andre de Waal
 
@@ -44,7 +43,6 @@
          * Recorded new webinar - 28th April 2020:
            * **Building a data catalog**
            * **Abstract:** In this webinar the Egeria team will cover the differ APIs and servers that support the creation and
-
               maintenance of a catalog of data assets. This catalog helps an organization find and use data effectively.
               * [Video Link](https://www.youtube.com/watch?v=FPhsnq3xEmo&feature=youtu.be).
               Also on [Community Videos](https://www.odpi.org/community/videos).
@@ -58,7 +56,6 @@
         * [Building an asset catalog guide](https://egeria.odpi.org/open-metadata-publication/website/cataloging-assets/)
      * New features delivered
         * New tech preview - reference data management
-
      * Plan to create heat map based on interest to guide people to available content and aid the planning process.
      * Plan for 3 day dojo at end of May - provides education on contributing to Egeria
 
