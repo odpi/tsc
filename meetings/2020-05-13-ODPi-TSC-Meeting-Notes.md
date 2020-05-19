@@ -10,6 +10,7 @@
 
 ## Regrets
 
+* Arun Nair
 
 ## Non-voting observers
 
