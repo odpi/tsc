@@ -19,8 +19,18 @@
 
 * Project updates
   
-  * OpenDS4All - Andre
+  * OpenDS4All - John
+     * Still working to connect with more universities - still a tough climate
+       * Working with Chris on new publicity plans
+       * Now potential collaborators on Natural Language Processing (NLP) 
+     
   * ODPi BI & AI - Cupid
+     * 2 weeks ago first meeting - full attendance :)
+       * Key challenge for BI vendors
+       * Still discussions on scope of bridge - some feel it may be too big
+          * will look at what to include and what not to include
+     * Next meeting is Friday
+  
   * ODPi Egeria - Mandy and Maryna
      * Egeria dojo complete and enabled as self-study course:
         * Link to dojo: https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/
