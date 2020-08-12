@@ -5,12 +5,11 @@
 * Mandy Chessell
 * John Mertic
 * Cupid Chan
-* Maryna Strelchuk
 * Andre de Waal
 * Arun Nair
 
 ## Regrets
-
+* Maryna Strelchuk
 
 ## Non-voting observers
 
@@ -19,11 +18,17 @@
 
 * Project updates
   
-  * OpenDS4All - John
-     
-     
+  * OpenDS4All - Andre
+     * Berkley offered use of the **Binder** environment to provide a one click runtime environment for 
+     running the project notebooks for students and professors.
+     See *binder* link on home page.
+   
   * ODPi BI & AI - Cupid
-    
+     * Team working well establishing the standards for the bridge, who the personas and beneficiaries
+     along with other evaluation criteria associated with the bridge.
+     * Brain storming bringing all ideas to the table. But by the end of August the group will start
+     to consolidate their thinking.
+     * Write-up should begin in September
   
   * ODPi Egeria - Mandy and Maryna
      * Release 2.1 shipped
