@@ -44,7 +44,7 @@
            * New generic handler services in progress
         * Glossary UI
            * Added ability to search, create, update, delete glossary elements
-        * FVT teats now run in the build
+        * FVT tests now run in the build
      * This month's webinar is on our use of graph technology.      
 
 * AOB 
